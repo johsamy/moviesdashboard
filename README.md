@@ -1,5 +1,4 @@
 # moviesdashboard
-# moviedashboard
 
 ## Project setup
 ```
