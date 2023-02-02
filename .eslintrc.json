@@ -7,7 +7,7 @@
     ],
     "parser": "vue-eslint-parser",
     "parserOptions": {
-        "ecmaVersion": "2021"
+        "ecmaVersion": "last"
     },
     "plugins": [
         "vue",
