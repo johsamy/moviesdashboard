@@ -10,7 +10,9 @@
   "dependencies": {
     "@jamescoyle/vue-icon": "^0.1.2",
     "@mdi/js": "^7.1.96",
+    "@popperjs/core": "^2.11.6",
     "axios": "^1.2.5",
+    "bootstrap": "^5.2.3",
     "core-js": "^3.6.5",
     "pinia": "^2.0.29",
     "vue": "^3.0.0",
